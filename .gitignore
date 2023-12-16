@@ -1,0 +1,8 @@
+*
+!.gitignore
+!README.md
+!docs/
+
+docs/*
+!docs/screenshots/
+!docs/screenshots/*
